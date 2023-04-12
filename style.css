@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+}
+nav{
+    width: 100vw;
+    height: 397px;
+    background: linear-gradient(180deg, rgba(121, 223, 255, 0.58) 0%, rgba(130, 225, 255, 0) 58.22%);
+}
+#shopefi img{
+    width: 8.5vw;
+    margin-top: 1.5vw;
+}
+#texto-insano h1{
+    margin-top: 0.5vw;
+    font-size: 3vw;
+    color: #000;
+    font-weight: 650;
+}
+#campoPesquisa{
+    box-sizing: border-box;
+    width: 31.7vw;
+    height: 3vw;
+    border: 1px solid #000;
+    border-radius: 3vw;
+    margin-top: 1.5vw;
+}
+#campoPesquisa p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.7vw;
+    display: flex;
+    margin-top: 0.9vw;
+}
+#freeTrial{
+    margin-top: -3vw;
+    margin-right: -0.7vw;
+    float: right;
+    background-color: black;
+    color: white;
+    width: 10vw;
+    height: 2.5vw;
+    border-radius: 1.3vw;
+}
+#freeTrial p{
+    margin-left: 2.9vw;
+    margin-top: 0.65vw;
+}
+#textoEmbaixo{
+    margin-top: 1.5vw;
+}
+#textoEmbaixo p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.7vw;
+}
+#casinha{
+    margin-top: -1.5vw;
+}
+#casinha img{
+    width: 30vw;
+}
+#imagemBizarra{
+    margin-top: 5vw;
+}
+#imagemBizarra img{
+    width: 3.3vw;
+    margin-right: 2vw;
+    float: left;
+}
+#textoBizarro{
+    text-align: left;
+    float: left;
+}
+#textoBizarro h5{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.3vw;
+    margin-top: 1vw;
+}
+#textoBizarro p{
+    font-weight: 400;
+    font-size: 1vw;
+}
+#sinep1{
+    background-color: black;
+    height: 0.03vw;
+    margin-top: 4vw;
+}
+#coisos img{
+    width: 80vw;
+    margin-top: 1vw;
+}
+#sinep2{
+    background-color: black;
+    height: 0.03vw;
+}
+#textoMaluco{
+    margin-top: 2vw;
+}
+#textoMaluco h1{
+    color: #000;
+    font-weight: 800;
+    font-size: 2.5vw;
+}
+#subMaluco{
+    margin-top: 2vw;
+}
+#subMaluco p{
+    font-weight: 400;
+    font-size: 1vw;
+}
+#retanguloInsano{
+    width: 100vw;
+    height: 25vw;
+    margin-top: 2vw;
+    background: radial-gradient(50% 50% at 50% 50%, #D0F224 0%, #054A49 67.08%);
+}
+#buildEtc{
+    margin-top: 5vw;
+}
+#buildEtc h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.5vw;
+    color: white;
+}
+#taMaluco{
+    margin-top: 1.5vw;
+}
+#taMaluco p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1vw;
+    color: white;
+}
+#campoPesquisa2{
+    box-sizing: border-box;
+    width: 31.7vw;
+    height: 3vw;
+    border: 1px solid #fff;
+    border-radius: 3vw;
+    margin-top: 2.5vw;
+}
+#campoPesquisa2 p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.7vw;
+    color: white;
+    display: flex;
+    margin-top: 0.9vw;
+}
+#freeTrial2{
+    margin-top: -3vw;
+    margin-right: -0.7vw;
+    float: right;
+    background-color: #fff;
+    width: 10vw;
+    height: 2.5vw;
+    border-radius: 1.3vw;
+}
+#freeTrial2 p{
+    margin-left: 2.9vw;
+    margin-top: 0.65vw;
+    color: black;
+    font-weight: 700;
+}
+#textoEmbaixo2{
+    margin-top: 3vw;
+}
+#textoEmbaixo2 p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.7vw;
+    color: white;
+}
+#faq{
+    margin-top: 4vw;
+}
+#faq h1{
+    float: left;
+    font-style: normal;
+    font-size: 3vw;
+    font-weight: 700;
+    color: #000;
+}
+#questoesInsanas{
+    margin-top: 2.2vw;
+}
+#questoesInsanas h1{
+    font-style: normal;
+    font-size: 1.5vw;
+    font-weight: 700;
+    float: left;
+    color: black;
+}
+#questoesInsanas img{
+    float: right;
+    width: 1.3vw;
+    margin-top: 0.3vw;
+}
+#linhaBizarra{
+    background-color: rgb(75, 75, 75);
+    height: 0.03vw;
+    margin-top: 1.6vw;
+}
+#textosInsanos{
+    margin-top: 2vw;
+}
+#textosInsanos p{
+    float: right;
+    margin-left: 5vw;
+    font-size: 0.8vw;
+    color: #000;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
